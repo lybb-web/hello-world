@@ -1,6 +1,5 @@
-# Welcome to GitHub
-
-Welcome to GitHub—where millions of developers work together on software. Ready to get started? Let’s learn how this all works by building and publishing your first GitHub Pages website!
+hello-world!
+My name is Bryant Ly, and I like settling it in Smash!
 
 ## Repositories
 
